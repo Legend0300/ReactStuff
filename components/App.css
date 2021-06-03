@@ -1,0 +1,26 @@
+.btn {
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.card-img-top {
+    max-width: 20%;
+    line-height: 20px;
+} 
+.card { 
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    color: black;
+}
+
+.form-control {
+    margin: 5px;
+}
+* {
+    background-color: rgb(169, 247, 250);
+}
